@@ -1,0 +1,14 @@
+C:\Users\USUARIO\source\repos\FactoryPattern\bin\Debug\net10.0\FactoryPattern.exe
+C:\Users\USUARIO\source\repos\FactoryPattern\bin\Debug\net10.0\FactoryPattern.deps.json
+C:\Users\USUARIO\source\repos\FactoryPattern\bin\Debug\net10.0\FactoryPattern.runtimeconfig.json
+C:\Users\USUARIO\source\repos\FactoryPattern\bin\Debug\net10.0\FactoryPattern.dll
+C:\Users\USUARIO\source\repos\FactoryPattern\bin\Debug\net10.0\FactoryPattern.pdb
+C:\Users\USUARIO\source\repos\FactoryPattern\obj\Debug\net10.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\FactoryPattern\obj\Debug\net10.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\FactoryPattern\obj\Debug\net10.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\FactoryPattern\obj\Debug\net10.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\FactoryPattern\obj\Debug\net10.0\FactoryPattern.dll
+C:\Users\USUARIO\source\repos\FactoryPattern\obj\Debug\net10.0\refint\FactoryPattern.dll
+C:\Users\USUARIO\source\repos\FactoryPattern\obj\Debug\net10.0\FactoryPattern.pdb
+C:\Users\USUARIO\source\repos\FactoryPattern\obj\Debug\net10.0\FactoryPattern.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\FactoryPattern\obj\Debug\net10.0\ref\FactoryPattern.dll
